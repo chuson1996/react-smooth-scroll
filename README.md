@@ -14,6 +14,7 @@ yarn add react-motion react-smooth-scroll
 
 ### Props:
 *scrollTopWhenRouteChange*: boolean (Default: false). Change this to true if you want to scroll to the top of the window when route changes. Remember you would have to pass history to the component as well.
+
 *history*: Object. Pass the history object of react-router here if scrollTopWhenRouteChange is true
 
 ## Usage:
